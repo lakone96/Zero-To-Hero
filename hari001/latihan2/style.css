@@ -1,0 +1,16 @@
+#judul {
+    text-align: center;
+    color: rgb(44, 44, 197);
+    font-size: 3rem;
+}
+
+.sub {
+    text-align: center;
+    color: rgb(4, 4, 194);
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.2rem;
+    text-align: center;
+}

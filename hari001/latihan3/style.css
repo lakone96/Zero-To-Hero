@@ -1,16 +1,15 @@
 .judul {
     text-align: center;
-    color: rgb(44, 44, 197);
     font-size: 4rem;
+    color: sienna;
 }
 
-#sub {
+#sub{
     text-align: center;
-    color: rgb(194, 90, 4);
     font-size: 2.5rem;
 }
 
 p {
-    font-size: 1.2rem;
     text-align: center;
+    font-size: 1.2rem;
 }

@@ -1,15 +1,15 @@
-#judul {
+.judul {
   color: red;
   text-align: center;
-  font-size: 2.5rem;
+  font-size: 4rem;
 }
 
-.sub-judul {
-  font-size: 2rem;
+#sub-judul {
+  font-size: 2.5rem;
   text-align: center;
 }
 
 p {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   text-align: center;
 }
